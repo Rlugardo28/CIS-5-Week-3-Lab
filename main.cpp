@@ -26,7 +26,7 @@ int main()
   cout << "Heght(m):" << height_m << endl;
   char initial = 'R';
   cout << "Initial:" << initial << endl;
-  bool student = false;
+  bool student = true;
   cout << "Student:" << student << endl;
   cout << "Year:" << CURRENT_YEAR << endl;
 
